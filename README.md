@@ -1,4 +1,4 @@
-# Your Discord Bot
+# ArtistXoder App
 
 This is a Discord bot built using the `eris` library in JavaScript. It has several features, including basic moderation and integration with GitHub.
 
