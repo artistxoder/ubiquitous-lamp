@@ -1,0 +1,19 @@
+{
+  "name": "mcdonalds-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that tells users to get a job at McDonald's when sketchy stuff is posted.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  },
+  "keywords": ["discord", "bot", "funny", "moderation", "minimal"],
+  "author": "artistxoder",
+  "license": "MIT"
+}
